@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348166752998",
+    "project_id": "goanywhere-61a06",
+    "storage_bucket": "goanywhere-61a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348166752998:android:de9803595ee7ca8a018927",
+        "android_client_info": {
+          "package_name": "com.s4r1m.goanywhere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhECrl_PWxCD9Kx5Fwwmx45bBEAUnKago"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
